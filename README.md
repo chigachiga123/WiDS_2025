@@ -1,7 +1,7 @@
 # # 📊 WiDS 5.0 – Equity Classification
 
 ## 🧠 Project Overview
-This project is part of **WiDS 5.0 (Winter in Data Science)** and focuses on **equity classification using firm-level financial data**.  
+This project is part of **WiDS 5.0** and focuses on **equity classification using firm-level financial data**.  
 The goal is to preprocess raw financial data, engineer meaningful features, and prepare a **model-ready dataset** for classification tasks.
 
 📌 Reference:  
